@@ -1,5 +1,6 @@
 
 این نسخه راست به چپ میباشد و مشکلات راجع به فایرفاکس بعد از راست به چپ شدن حل شده.
+
 developed for right to left language and fixed firefox problems it.
 
 telegram:@vahidwss
